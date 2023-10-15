@@ -14,5 +14,10 @@ namespace Tyuiu.MotorovaDD.Sprint1.Task5.V2.Lib
             double res = (temp * 9) / (5 + 32);
             return (int)res;
         }
+
+        public object sqr()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
